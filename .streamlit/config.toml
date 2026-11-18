@@ -1,0 +1,20 @@
+[browser]
+gatherUsageStats = false
+serverAddress = "127.0.0.1"
+
+[server]
+address = "127.0.0.1"
+port = 8501
+headless = false
+enableCORS = false
+enableXsrfProtection = false
+enableWebsocketCompression = false
+fileWatcherType = "none"
+
+[theme]
+base = "light"
+primaryColor = "#1E3A8A"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F8FAFC"
+textColor = "#0F172A"
+font = "sans serif"

@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "Smart Retail Sales Analytics System",
+			"path": "."
+		}
+	],
+	"settings": {
+		"python.terminal.activateEnvironment": true
+	}
+}
